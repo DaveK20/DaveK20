@@ -11,7 +11,7 @@
   <a href="https://github.com/DaveK20">
     <img src="https://img.shields.io/badge/GitHub-DaveK20-181717?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://linkedin.com/in/SEU_USUARIO_AQUI">
+  <a href="https://www.linkedin.com/in/davi-francisco-rodrigues-5b1285207">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:davefr@outlook.com.br">
