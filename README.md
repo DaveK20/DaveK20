@@ -43,7 +43,7 @@
 
 ---
 
-### 🥛 [Sistema CIP para Ordenhadeira Mecânica](https://github.com/DaveK20/SEU_REPO)
+### 🥛 [Sistema CIP para Ordenhadeira Mecânica](https://github.com/DaveK20/limpeza-CIP-ordenhadeira)
 > Automação completa do ciclo de limpeza CIP (*Clean-In-Place*) para ordenhadeiras, aplicado no IFF Campus Bom Jesus do Itabapoana.
 
 O sistema controla de forma autônoma **válvulas esféricas motorizadas**, **bombas peristálticas** de dosagem de produtos químicos e **resistência de aquecimento**, executando sequências de pré-enxague, lavagem alcalina, lavagem ácida e sanitização — tudo guiado por display LCD com painel de botões físicos.
@@ -59,7 +59,7 @@ O sistema controla de forma autônoma **válvulas esféricas motorizadas**, **bo
 
 ---
 
-### 🌦️ [Estação Meteorológica Agrícola](https://github.com/DaveK20/SEU_REPO)
+### 🌦️ [Estação Meteorológica Agrícola](https://github.com/DaveK20/estacao-meteorologica)
 > Monitoramento climático de campo com cálculo automático de Evapotranspiração de Referência (ETo) e datalogger em SD.
 
 Coleta temperatura, umidade e precipitação via pluviômetro de báscula (reed switch com interrupção de hardware), calcula a **ETo diária pelo método Hargreaves-Samani** e registra tudo em arquivos `.csv` no SD com timestamp, além de sincronizar com o ThingSpeak.
@@ -87,7 +87,7 @@ Dois sensores DHT22 monitoram temperatura e umidade interna e externa. O sistema
 
 ---
 
-### 🐟 [Alimentador Automático de Peixes](https://github.com/DaveK20/SEU_REPO)
+### 🐟 [Alimentador Automático de Peixes](https://github.com/DaveK20/alimentador-automatic-peixes)
 > Sistema solar autônomo de alimentação agendada para o laboratório de piscicultura do IFF.
 
 Energizado por **painel solar com bateria**, o dispositivo aciona o dispensador nos horários programados via **interface web no celular** sem instalar nenhum app. Após cada alimentação, o ESP32 entra em **deep sleep** acordando exatamente no próximo agendamento.
@@ -101,7 +101,7 @@ Energizado por **painel solar com bateria**, o dispositivo aciona o dispensador 
 
 ---
 
-### 🧪 [pHmetro com Calibração e IoT](https://github.com/DaveK20/SEU_REPO)
+### 🧪 [pHmetro com Calibração e IoT](https://github.com/DaveK20/esp32-ph-meter)
 > Instrumento de medição de pH com calibração matemática por dois pontos, ADC calibrado e monitoramento em nuvem.
 
 Utiliza a **API nativa de calibração do ADC do ESP32** (`esp_adc_cal`) para máxima precisão. A calibração por dois pontos resolve um sistema linear para obter os coeficientes da equação `pH = ax + b`, persistidos na **EEPROM**.
