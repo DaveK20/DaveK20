@@ -122,9 +122,3 @@ Utiliza a **API nativa de calibração do ADC do ESP32** (`esp_adc_cal`) para m�
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaveK20&layout=compact&langs_count=6&theme=dark"/>
 </p>
 
----
-
-<p align="center">
-  <i>"Hardware sem software é sucata. Software sem hardware é só teoria."</i><br/>
-  <i>"Hardware without software is junk. Software without hardware is just theory."</i>
-</p>
